@@ -21,7 +21,7 @@ The line chart displays the monthly sales revenue from January to June. It shows
 ---
 
 ### 2. Which products are the best-selling in terms of revenue? 📊
-The horizontal bar chart highlights the top 5 best-selling products. These products lead in sales, making significant contributions to the overall revenue
+The horizontal bar chart highlights the top 5 best-selling products. These products lead in sales, making significant contributions to the overall revenue.
 
 ![Best_Selling_Products](Images/Best_Selling_Products.jpeg)
 
