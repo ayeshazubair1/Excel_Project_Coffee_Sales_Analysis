@@ -62,7 +62,7 @@ On average, each customer places about 1.44 orders.
 ## Contact 📩
 *For any questions or feedback, you can reach me at:*
 
-**[Email](maitlto:ayeshazubair047@gmail.com)**
+**[Email](mailto:ayeshazubair047@gmail.com)**
 
 **[Linkedin](https://www.linkedin.com/in/ayeshazubair-az)**
 
