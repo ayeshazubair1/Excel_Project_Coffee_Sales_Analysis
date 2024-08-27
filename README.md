@@ -55,10 +55,14 @@ On average, each customer places about 1.44 orders.
 
 ---
 
-## Tools Used
+## Tools Used ⚙️
 - **Microsoft Excel:** For data analysis and dashboard creation.
 - **VSCode:** For writing and editing markdown file.
 - **Operating System:** Windows
+
+## Data Source ⛁
+The raw data used in this project is taken from [Maven Analytics](https://mavenanalytics.io/data-playground).
+
 ## Contact 📩
 *For any questions or feedback, you can reach me at:*
 
