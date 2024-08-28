@@ -28,14 +28,14 @@ The horizontal bar chart highlights the top 5 best-selling products. These produ
 ---
 
 ### 3. How do sales vary by product category? 📊
-The vertical bar chart displays the top 10 sales figures by product category. Coffee and tea are the leading categories, making up the majority of sales, while flavors and packaged chocolate contribute the least.
+The vertical bar chart displays the top 10 sales figures by product category, with coffee and tea leading at 270.0k and 196.4k, respectively, representing the majority of sales, while flavors and packaged chocolate contribute the least.
 
 ![Sales_By_Product_Category](Images/Sales_By_Product_Category.jpeg)
 
 ---
 
 ### 4. How do sales vary across different store locations? 📊
-The vertical Bar Chart highlights that Hell's Kitchen store has the highest sales revenue, followed closely by Astoria and Lower Manhattan.
+The vertical bar chart highlights that the Hell's Kitchen store has the highest sales revenue at 236.5k, followed closely by Astoria and Lower Manhattan.
 
 ![Sales_By_Location](Images/Sales_By_Location.jpeg)
 
