@@ -1,7 +1,7 @@
-# Coffee Shop Sales Analysis Dashboard ☕️
+# Coffee Shop Sales Analysis ☕️
 
 ## Comprehensive Overview- 
-This dashboard provides a thorough examination of coffee sales, showcasing trends over time, across different product categories, and between various store locations.
+The analysis provides a thorough examination of coffee sales, highlighting trends over time, across different product categories, and between various store locations.
 
 
 ### Key Insights 🔍
@@ -12,7 +12,7 @@ This dashboard provides a thorough examination of coffee sales, showcasing trend
 
 ---
 
->### Questions Answered- 📋
+### Questions I Answered- 📋
 ### 1. What is the total sales revenue for each month? 📈
 The line chart displays the monthly sales revenue from January to June. It shows a steady increase in revenue over these months, indicating a growing customer demand throughout the period.
 
@@ -55,13 +55,13 @@ On average, each customer places about 1.44 orders.
 
 ---
 
-## Tools Used ⚙️
+## Tools I Used ⚙️
 - **Microsoft Excel:** For data analysis and dashboard creation.
-- **VSCode:** For writing and editing markdown file.
-- **Operating System:** Windows
+- **VSCode:** For writing and editing markdown file, and pushing the pushing the project to GitHub.
+- **Operating System:** Windows & MacOS
 
 ## Data Source ⛁
-The raw data used in this project is taken from [Maven Analytics](https://mavenanalytics.io/data-playground).
+The raw data I used in this project is taken from [Maven Analytics](https://mavenanalytics.io/data-playground).
 
 ## Contact 📩
 *For any questions or feedback, you can reach me at:*
