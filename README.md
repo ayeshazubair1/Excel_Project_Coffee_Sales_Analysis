@@ -57,7 +57,7 @@ On average, each customer places about 1.44 orders.
 
 ## Tools I Used ⚙️
 - **Microsoft Excel:** For data analysis and dashboard creation.
-- **VSCode:** For writing and editing markdown file, and pushing the pushing the project to GitHub.
+- **VSCode:** For writing and editing markdown file, and pushing the project to GitHub.
 - **Operating System:** Windows & MacOS
 
 ## Data Source ⛁
